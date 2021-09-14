@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Thomas.
+- 👀 I’m interested in compiled languages like C and Ada, web and game development and automation testing.
