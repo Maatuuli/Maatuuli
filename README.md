@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Thomas.
-- 👀 I’m interested in compiled languages like C, F*/Low* and Ada, web and game development, defensive programming and test automation.
+- 👀 I’m interested in compiled languages like C, F*/Low* and Ada, web and game development, defensive programming/unit testing and program verification.
